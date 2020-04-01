@@ -2,7 +2,7 @@
   "name": "monsters",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fx13013.github.io/monsters",
+  "homepage": "https://fx13013.github.io/monsters-rolodex",
   "dependencies": {
     "cra-template": "1.0.3",
     "gh-pages": "^2.2.0",
