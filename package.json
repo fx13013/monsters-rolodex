@@ -2,7 +2,7 @@
   "name": "monsters",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fx13013.github.io/monsters-rolodex",
+  "homepage": "https://fx13013.github.io/monsters",
   "dependencies": {
     "cra-template": "1.0.3",
     "gh-pages": "^2.2.0",
@@ -15,8 +15,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "yarn build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
